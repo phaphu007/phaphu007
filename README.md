@@ -42,8 +42,6 @@ A chatbot system developed to assist students with internship and cooperative ed
 * ✅ Knowledge Base
 * ✅ Context Recovery
 * ✅ Unified Search
-* 🚧 Search Ranking
-* 🚧 FAQ Keyword Search
 
 #### Tech Stack
 
