@@ -29,29 +29,6 @@
 
 ---
 
-## 🚀 Current Project
-
-### Internship & Cooperative Education Chatbot
-
-A chatbot system developed to assist students with internship and cooperative education information.
-
-#### Features
-
-* ✅ Intent Detection
-* ✅ FAQ Module
-* ✅ Knowledge Base
-* ✅ Context Recovery
-* ✅ Unified Search
-
-#### Tech Stack
-
-* NestJS
-* Prisma ORM
-* MariaDB
-* TypeScript
-
----
-
 ## 🌱 Currently Learning
 
 * System Design
