@@ -11,11 +11,18 @@
 
 ## 🚀 About Me
 
-- 🔭 I'm currently developing a chatbot system to assist students with internship and cooperative education information.
-- 🌱 Learning Backend Development, System Design, API Development, and Database Architecture.
-- 💬 Ask me about TypeScript, NestJS, REST APIs, Prisma ORM, and Database Design.
-- 🤝 Interested in Backend Engineering, AI Chatbots, and Software Development.
-- ⚡ Passionate about solving real-world problems through software development.
+🔭 Aspiring Backend Developer passionate about building reliable and efficient systems.
+
+💻 Working with NestJS, PHP, MySQL, React, TypeScript, and JavaScript.
+
+🗄️ Interested in API Development, Database Design, System Architecture, and Backend Technologies.
+
+🔌 Previously worked with Arduino and Cisco Packet Tracer for embedded systems and networking fundamentals.
+
+🌱 Currently expanding my knowledge in scalable backend systems and software engineering best practices.
+
+⚡ Always eager to learn, improve, and build impactful software solutions.
+
 
 ---
 
