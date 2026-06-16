@@ -19,19 +19,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️   Tech Stack
 
 <div align="center">
 
-### Frontend & Languages
-
-<img src="https://skillicons.dev/icons?i=angular,react,html,css,js,php,ts" />
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,js,php,ts,docker,gitlab" />
 
 <br/><br/>
 
-### Backend & Tools
 
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,prisma,mysql,git,github,vscode,postman,linux" />
 
 </div>
 
